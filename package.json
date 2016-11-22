@@ -1,0 +1,26 @@
+{
+  "name": "coco-pg",
+  "version": "0.1.0",
+  "description": "Compact Co PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whizzter/coco-pg.git"
+  },
+  "keywords": [
+    "co",
+    "koa",
+    "postgresql",
+    "postgres",
+    "pg"
+  ],
+  "author": "Jonas Lund",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whizzter/coco-pg/issues"
+  },
+  "homepage": "https://github.com/whizzter/coco-pg#readme"
+}
