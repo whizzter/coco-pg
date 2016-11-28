@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/whizzter/coco-pg/issues"
   },
-  "homepage": "https://github.com/whizzter/coco-pg#readme"
+  "homepage": "https://github.com/whizzter/coco-pg#readme",
+  "dependencies": {
+    "pg": "^6.1.0"
+  }
 }
