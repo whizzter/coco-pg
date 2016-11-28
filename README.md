@@ -4,6 +4,7 @@ Compact Co PostgreSQL
 
 
 This library is built to be a slim but succint wrapper of the pg PostgreSQL driver.
+A sibling library for SQLite exists for smaller prototypes at [coco-sqlite](https://github.com/whizzter/coco-sqlite).
 
 A simple pooled example would look something like this:
 ```js
